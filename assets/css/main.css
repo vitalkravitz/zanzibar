@@ -621,8 +621,8 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
-		color: #39454b;
+		background: transparent;
+		color: white;
 		padding: 2em;
 	}
 
